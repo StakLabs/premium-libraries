@@ -50,8 +50,10 @@ Example:
 ```html
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-<script src="pyramid.js"></script>
+<script src="https://staklabs.github.io/premium-libraries/pyramid.js"></script>
 ```
+
+You may also simply add the code
 
 ---
 
